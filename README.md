@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mental-x3
+- 👀 I’m interested in codeding
+- 🌱 I’m currently learning nothing
+- 🔭 I’m currently working on [wa bot](github.com/mental-x3/)
+- 📫 How to reach me [whatsapp](wa.me/91)
